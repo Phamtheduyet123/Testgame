@@ -1,0 +1,9 @@
+﻿  Account.cpp
+  DataAccount.cpp
+  HomeGame.cpp
+  login.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Main.cpp
+  Account.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GameBauCua.vcxproj -> E:\GameBauCua\GameBauCua\GameBauCua\x64\Debug\GameBauCua.exe
